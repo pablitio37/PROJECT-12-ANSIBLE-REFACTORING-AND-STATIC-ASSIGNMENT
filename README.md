@@ -7,3 +7,5 @@ Before we begin, let us make some changes to our Jenkins job – now every new c
 Go to your Jenkins-Ansible server and create a new directory called ansible-config-artifact – we will store there all artifacts after each build.
 
 ![text1](https://user-images.githubusercontent.com/108102087/208252118-2f7ccba4-e2a8-4423-921f-7593718fac47.PNG)
+
+Create a new Freestyle project (you have done it in Project 9) and name it save_artifacts.
