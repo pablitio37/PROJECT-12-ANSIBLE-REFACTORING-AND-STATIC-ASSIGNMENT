@@ -10,4 +10,9 @@ Go to your Jenkins-Ansible server and create a new directory called ansible-conf
 
 Create a new Freestyle project (you have done it in Project 9) and name it save_artifact.
 
-new change
+![text2](https://user-images.githubusercontent.com/108102087/208262347-6fc34f45-97c9-4cd9-b5b9-8900325ad42b.PNG)
+
+## REFACTOR ANSIBLE CODE BY IMPORTING OTHER PLAYBOOKS INTO SITE.YML
+
+Step 2 – Refactor Ansible code by importing other playbooks into site.yml
+Before starting to refactor the codes, ensure that you have pulled down the latest code from master (main) branch, and created a new branch, name it refactor.
