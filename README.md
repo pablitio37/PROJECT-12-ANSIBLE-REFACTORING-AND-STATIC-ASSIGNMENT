@@ -22,5 +22,3 @@ new change
 another change
 
 yet another change
-
-only new
