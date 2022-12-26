@@ -19,6 +19,3 @@ Before starting to refactor the codes, ensure that you have pulled down the late
 
 new change
 
-another change
-
-yet another change
